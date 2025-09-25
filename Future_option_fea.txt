@@ -1,2 +1,6 @@
 Team is working on future option Feature.
+<<<<<<< HEAD
 Team is completed main functionality for payment(available).
+=======
+Team is completed main functionality for payment(not-available).
+>>>>>>> main
