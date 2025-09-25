@@ -1,2 +1,2 @@
 Team is working on future option Feature.
-Team is completed main functionality for payment.
+Team is completed main functionality for payment(available).
